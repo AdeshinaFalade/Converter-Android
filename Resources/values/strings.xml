@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Converter_Android</string>
     <string name="action_settings">Settings</string>
+	<string-array name="option">
+		<item>Roman to Integer</item>
+		<item>Integer to Roman</item>
+	</string-array>
 </resources>
